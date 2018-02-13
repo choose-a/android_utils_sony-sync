@@ -1,7 +1,7 @@
 # android_path remote_url branch
 
 device/sony/common https://github.com/sonyxperiadev/device-sony-common android-8.0.0_r30
-device/sony/common-headers https://github.com/sonyxperiadev/device-sony-common-headers o-mr0
+device/sony/common-headers https://github.com/sonyxperiadev/device-sony-common-headers aosp/LA.UM.5.7.r1
 device/sony/sepolicy https://github.com/sonyxperiadev/device-sony-sepolicy o-mr0
 
 device/sony/loire-common https://github.com/sonyxperiadev/device-sony-loire o-mr0
