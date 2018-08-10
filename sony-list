@@ -1,7 +1,7 @@
 # android_path remote_url branch
 
 device/sony/common https://github.com/sonyxperiadev/device-sony-common master
-device/sony/common-headers https://github.com/sonyxperiadev/device-sony-common-headers aosp/LA.UM.6.4.r1
+device/sony/common-headers https://github.com/sonyxperiadev/device-sony-common-headers aosp/LE.UM.2.3.2.r1.4
 device/sony/sepolicy https://github.com/sonyxperiadev/device-sony-sepolicy master
 
 device/sony/loire-common https://github.com/sonyxperiadev/device-sony-loire master
@@ -24,9 +24,8 @@ hardware/sony/dataservices https://github.com/sonyxperiadev/vendor-qcom-opensour
 hardware/sony/fingerprint https://github.com/sonyxperiadev/vendor-sony-oss-fingerprint master
 hardware/sony/location https://github.com/sonyxperiadev/vendor-qcom-opensource-location o-mr1
 hardware/sony/macaddrsetup https://github.com/sonyxperiadev/macaddrsetup master
-hardware/sony/thermanager https://github.com/sonyxperiadev/thermanager master
 hardware/sony/timekeep https://github.com/sonyxperiadev/timekeep master
 
-kernel/sony/msm https://github.com/sonyxperiadev/kernel aosp/LA.UM.6.4.r1
+kernel/sony/msm https://github.com/sonyxperiadev/kernel aosp/LE.UM.2.3.2.r1.4
 
 packages/apps/ExtendedSettings https://github.com/sonyxperiadev/packages_apps_ExtendedSettings master

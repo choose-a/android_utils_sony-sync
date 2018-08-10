@@ -19,7 +19,7 @@ path=$(pwd);
 config="sony-list";
 url="review.choose-a.name";
 port="29418";
-revision="choose-8.1";
+revision="choose-9.0";
 username=${GERRIT_USERNAME};
 
 # Gerrit Username
