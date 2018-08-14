@@ -1,22 +1,22 @@
 # android_path remote_url branch
 
-device/sony/common https://github.com/sonyxperiadev/device-sony-common master
+device/sony/common https://github.com/sonyxperiadev/device-sony-common o-mr1
 device/sony/common-headers https://github.com/sonyxperiadev/device-sony-common-headers aosp/LA.UM.6.4.r1
-device/sony/sepolicy https://github.com/sonyxperiadev/device-sony-sepolicy master
+device/sony/sepolicy https://github.com/sonyxperiadev/device-sony-sepolicy o-mr1
 
-device/sony/loire-common https://github.com/sonyxperiadev/device-sony-loire master
-device/sony/kugo https://github.com/sonyxperiadev/device-sony-kugo master
-device/sony/suzu https://github.com/sonyxperiadev/device-sony-suzu master
+device/sony/loire-common https://github.com/sonyxperiadev/device-sony-loire o-mr1
+device/sony/kugo https://github.com/sonyxperiadev/device-sony-kugo o-mr1
+device/sony/suzu https://github.com/sonyxperiadev/device-sony-suzu o-mr1
 
-device/sony/tone-common https://github.com/sonyxperiadev/device-sony-tone master
-device/sony/dora https://github.com/sonyxperiadev/device-sony-dora master
-device/sony/kagura https://github.com/sonyxperiadev/device-sony-kagura master
-device/sony/keyaki https://github.com/sonyxperiadev/device-sony-keyaki master
+device/sony/tone-common https://github.com/sonyxperiadev/device-sony-tone o-mr1
+device/sony/dora https://github.com/sonyxperiadev/device-sony-dora o-mr1
+device/sony/kagura https://github.com/sonyxperiadev/device-sony-kagura o-mr1
+device/sony/keyaki https://github.com/sonyxperiadev/device-sony-keyaki o-mr1
 
-device/sony/yoshino-common https://github.com/sonyxperiadev/device-sony-yoshino master
-device/sony/lilac https://github.com/sonyxperiadev/device-sony-lilac master
-device/sony/maple https://github.com/sonyxperiadev/device-sony-maple master
-device/sony/poplar https://github.com/sonyxperiadev/device-sony-poplar master
+device/sony/yoshino-common https://github.com/sonyxperiadev/device-sony-yoshino o-mr1
+device/sony/lilac https://github.com/sonyxperiadev/device-sony-lilac o-mr1
+device/sony/maple https://github.com/sonyxperiadev/device-sony-maple o-mr1
+device/sony/poplar https://github.com/sonyxperiadev/device-sony-poplar o-mr1
 
 hardware/qcom/camera https://github.com/sonyxperiadev/camera aosp/LA.UM.6.4.r1
 
