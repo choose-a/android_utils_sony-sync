@@ -4,19 +4,22 @@ device/sony/common https://github.com/sonyxperiadev/device-sony-common master an
 device/sony/common-headers https://github.com/sonyxperiadev/device-sony-common-headers aosp/LE.UM.2.3.2.r1.4 android_device_sony_common-headers
 device/sony/sepolicy https://github.com/sonyxperiadev/device-sony-sepolicy master android_device_sony_sepolicy
 
+# Loire
 device/sony/loire-common https://github.com/sonyxperiadev/device-sony-loire master android_device_sony_loire-common
 device/sony/kugo https://github.com/sonyxperiadev/device-sony-kugo master android_device_sony_kugo
 device/sony/suzu https://github.com/sonyxperiadev/device-sony-suzu master android_device_sony_suzu
 
-device/sony/tone-common https://github.com/sonyxperiadev/device-sony-tone master android_device_sony_tone-common
-device/sony/dora https://github.com/sonyxperiadev/device-sony-dora master android_device_sony_dora
-device/sony/kagura https://github.com/sonyxperiadev/device-sony-kagura master android_device_sony_kagura
-device/sony/keyaki https://github.com/sonyxperiadev/device-sony-keyaki master android_device_sony_keyaki
+# Tone
+# device/sony/tone-common https://github.com/sonyxperiadev/device-sony-tone master android_device_sony_tone-common
+# device/sony/dora https://github.com/sonyxperiadev/device-sony-dora master android_device_sony_dora
+# device/sony/kagura https://github.com/sonyxperiadev/device-sony-kagura master android_device_sony_kagura
+# device/sony/keyaki https://github.com/sonyxperiadev/device-sony-keyaki master android_device_sony_keyaki
 
-device/sony/yoshino-common https://github.com/sonyxperiadev/device-sony-yoshino master android_device_sony_yoshino
-device/sony/lilac https://github.com/sonyxperiadev/device-sony-lilac master android_device_sony_lilac
-device/sony/maple https://github.com/sonyxperiadev/device-sony-maple master android_device_sony_maple
-device/sony/poplar https://github.com/sonyxperiadev/device-sony-poplar master android_device_sony_poplar
+# Yoshino
+# device/sony/yoshino-common https://github.com/sonyxperiadev/device-sony-yoshino master android_device_sony_yoshino
+# device/sony/lilac https://github.com/sonyxperiadev/device-sony-lilac master android_device_sony_lilac
+# device/sony/maple https://github.com/sonyxperiadev/device-sony-maple master android_device_sony_maple
+# device/sony/poplar https://github.com/sonyxperiadev/device-sony-poplar master android_device_sony_poplar
 
 hardware/qcom/camera https://github.com/sonyxperiadev/camera aosp/LA.UM.6.4.r1 android_hardware_qcom_camera
 
